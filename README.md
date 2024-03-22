@@ -12,7 +12,7 @@ Make sure to use the python scripts and dependencies that is compatible with you
 
 for Mac/Linux: https://github.com/kikiluvbrains/Afni_Colourbar/tree/main/Colourbar_forMac
 
-for Windows: 
+for Windows: https://github.com/kikiluvbrains/Afni_Colourbar/tree/main/Colourbar_for_Mac_Linux
 
 ### License
 

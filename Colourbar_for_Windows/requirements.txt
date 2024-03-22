@@ -1,0 +1,6 @@
+numpy
+pyinstaller
+matplotlib
+Pillow
+tk
+pywin32

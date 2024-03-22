@@ -8,15 +8,15 @@ https://github.com/kikiluvbrains/Afni_Colourbar/releases
 
 ## The following guide is if you would like to generate an application for your personal system
 
-## License
+### License
 
 MIT License. Free to use.
 
-## Setup
+#### Setup
 
 Ensure Python is installed on your system. This application has been tested on Python 3.8+.
 
-### Dependencies
+#### Dependencies
 
 Install the required dependencies by running:
 
@@ -24,7 +24,7 @@ Install the required dependencies by running:
 pip install -r requirements.txt
 ```
 
-### Compiling with PyInstaller
+#### Compiling with PyInstaller
 
 To create a standalone executable:
 
@@ -32,7 +32,7 @@ To create a standalone executable:
 pyinstaller --onefile --windowed Colourbar_afni.py
 ```
 
-## Usage
+### Usage
 
 Run the compiled application directly, or execute the script using:
 

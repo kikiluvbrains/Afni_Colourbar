@@ -8,6 +8,11 @@ https://github.com/kikiluvbrains/Afni_Colourbar/releases
 
 ## The following guide is if you would like to generate an application for your personal system
 
+Make sure to use the python scripts and dependencies that is compatible with your system, when following this guide.
+
+for Mac/Linux: https://github.com/kikiluvbrains/Afni_Colourbar/tree/main/Colourbar_forMac
+for Windows: 
+
 ### License
 
 MIT License. Free to use.

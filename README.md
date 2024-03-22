@@ -11,6 +11,7 @@ https://github.com/kikiluvbrains/Afni_Colourbar/releases
 Make sure to use the python scripts and dependencies that is compatible with your system, when following this guide.
 
 for Mac/Linux: https://github.com/kikiluvbrains/Afni_Colourbar/tree/main/Colourbar_forMac
+
 for Windows: 
 
 ### License
